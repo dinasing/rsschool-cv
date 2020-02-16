@@ -10,3 +10,24 @@ of successfully completing projects from the concept through to design, testing
 and handover.
 Eager to learn, easy going by nature and able to get along with both work
 colleagues and senior managers
+##### Phone (12) 345-67-89  
+##### E-mail <dina.sing1212@gmail.com>  
+
+### Summary
+Junior Web Developer is seeking an opportunity to extend  my skillset in web technologies to develop and implement solutions to meet business needs  
+
+### Skills
+* HTML5/CSS3
+* JavaScript
+* NodeJS
+* React/Redux
+* MySql, MongoDB
+* Git  
+
+### Experience 
+Client-server applications with GUI and database on Java and C++ as course projects at university 
+
+### Education
+* Belarusian State University of Informatics and Radioelectronics, Faculty of Engineering and Economics, specialty -- Informational systems and networks (in economics) (2016-2020)
+* Rolling Scopes School
+* English B1
